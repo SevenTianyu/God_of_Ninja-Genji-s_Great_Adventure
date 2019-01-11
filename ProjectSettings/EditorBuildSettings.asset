@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start_Scene.unity
+    guid: ed5710aea6ddff04490a70fa7a41cef1
+  - enabled: 1
+    path: Assets/Scenes/Choose_Checkpoint.unity
+    guid: 9e910046e2f5e6a4b870f64a93a7a05f
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/final.unity
+    guid: cb0d79d1b10aff24c920da28c2bf46ce
+  - enabled: 1
+    path: Assets/Scenes/Die.unity
+    guid: f6002832661012f409e5951e6f34ff07
+  - enabled: 1
+    path: Assets/Scenes/Win_video.unity
+    guid: 96677abdcdcc40043b415cc87944f4c5
+  - enabled: 1
+    path: Assets/Scenes/success.unity
+    guid: 6141e05a22b3e4a46bdee3ac43345f9f
+  m_configObjects: {}
